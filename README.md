@@ -1,0 +1,4 @@
+hicimos con las chicas de optica una colaboracion entre especialidades. hicimos una serie de test de optica en programa para que se pueda hacer pruebas y eso con las cosas que hicimos los chicos de programacion
+los test que hicimos los chicos de programacion que las chicas de optica propusieron fueron los siguientes:ishihara para hace pruebas de daltonismo y ver si tiene dificultades para ver colores;seguimiento visual para ejercita los muculos del ojo;
+campimetria para ver los puntos ciegos o donde mas se le dificulta ver al usuario;Tateti para jugar con alguien o un bot las X o O se ponen de color verde y rojo para que cuando se pngan filtros puedan ver esos colores nomas y trabajar la vista.
+los integrantes de este trabajo en conjunto con optica y programacion son:Theo Cattáneo, Tomas Ramos, Lautaro Cortez, Benjamin Olariaga, Agostina Gonzalez, Gisela Santos, Maribel Quispe, FLorencia Amaya
